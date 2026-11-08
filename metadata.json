@@ -1,0 +1,10 @@
+{
+  "name": "Remix سامانه تشخیص وزن شعر فارسی",
+  "description": "سامانه هوشمند تشخیص وزن شعر فارسی از روی فایل صوتی و ضبط صدا با پشتیبانی از مدل هوش مصنوعی H5 و نگاشت اوزان عروضی",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
